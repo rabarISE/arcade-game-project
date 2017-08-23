@@ -22,9 +22,5 @@ Users move the hero character by using the main up/right/left/down arrow keys on
 [http://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes/](http://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes/ "JavaScript Character Key Codes")  
 [http://www.w3schools.com/Tags/ref_canvas.asp](http://www.w3schools.com/Tags/ref_canvas.asp "HTML5 Canvas Reference")  
 
-# Project Requirements
-
-## How do I complete this project?
-
 #### Students should use this rubric for self-checking their submission:
 [https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797/](https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797/ "Frogger Arcade Game Project Requirements")
