@@ -1,12 +1,30 @@
-frontend-nanodegree-arcade-game
-===============================
-This is sample game and created via javascript and HTML5 CANVS and used Object Oriented java script.
-In this game have two class (enemy class and player class) this classes have same method example (render,update)
-the render useing to show enemy or player in the screen and update method using to update location of enemy and player
-in this game the player must be reach to water when rech the water the increse score but when collision whis eneimes reset game and misseng event.
+# Frogger Arcade Game
+
+## Summary
+Frogger Arcade is a variation of the classic Frogger arcade game.
+
+#### Goals/Winning
+In this game the goal is simple, get the hero character to move across the gray bricks towards the water without getting hit by the enemy bugs. The user's score increases and enemy are randomly placed.
+
+#### Movement and Controls
+Users move the hero character by using the main up/right/left/down arrow keys on their keyboard.
 
 
+## Tools / Techniques
+- Object-Oriented JavaScript
+- constructor functions to create multiple Enemy instances
+- prototypal inheritance
+- HTML5 Canvas
 
-- User used the game buttons up down right and left to move the player.
-- If you touch the eneimes (ladybug) you go back to the grass.
-- If you got to the water youll get a point.
+## List of Resources
+[http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/ "How to Make a Simple HTML5 Canvas Game")   
+[http://stackoverflow.com/questions/9772307/declaring-javascript-object-method-in-constructor-function-vs-in-prototype/9772864#9772864/](http://stackoverflow.com/questions/9772307/declaring-javascript-object-method-in-constructor-function-vs-in-prototype/9772864#9772864/ "Stack Overflow - Object Methods in Constructor Functions vs. Prototypes")  
+[http://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes/](http://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes/ "JavaScript Character Key Codes")  
+[http://www.w3schools.com/Tags/ref_canvas.asp](http://www.w3schools.com/Tags/ref_canvas.asp "HTML5 Canvas Reference")  
+
+# Project Requirements
+
+## How do I complete this project?
+
+#### Students should use this rubric for self-checking their submission:
+[https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797/](https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797/ "Frogger Arcade Game Project Requirements")
